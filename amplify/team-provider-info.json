@@ -1,0 +1,38 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-currydumpster-staging-23233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::756851887615:role/amplify-currydumpster-staging-23233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::756851887615:role/amplify-currydumpster-staging-23233-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-currydumpster-staging-23233-deployment",
+      "UnauthRoleName": "amplify-currydumpster-staging-23233-unauthRole",
+      "StackName": "amplify-currydumpster-staging-23233",
+      "StackId": "arn:aws:cloudformation:us-east-1:756851887615:stack/amplify-currydumpster-staging-23233/f44aec70-575d-11ee-9d48-12959ccb170d",
+      "AmplifyAppId": "dn9y0ei56ena1"
+    },
+    "categories": {
+      "auth": {
+        "currydumpster": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-currydumpster-dev-124503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::756851887615:role/amplify-currydumpster-dev-124503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::756851887615:role/amplify-currydumpster-dev-124503-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-currydumpster-dev-124503-deployment",
+      "UnauthRoleName": "amplify-currydumpster-dev-124503-unauthRole",
+      "StackName": "amplify-currydumpster-dev-124503",
+      "StackId": "arn:aws:cloudformation:us-east-1:756851887615:stack/amplify-currydumpster-dev-124503/0c8c83d0-57d5-11ee-b362-0e8373f57fa5",
+      "AmplifyAppId": "dn9y0ei56ena1"
+    },
+    "categories": {
+      "auth": {
+        "currydumpster": {}
+      }
+    }
+  }
+}
